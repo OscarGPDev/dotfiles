@@ -3,7 +3,7 @@ env:
   TERM: xterm-256color
 
 window:
-
+  opacity: 0.6
   dimensions:
     columns: 100
     lines: 15
@@ -104,4 +104,4 @@ colors:
 background_opacity: 0.9
 key_bindings:
 - { key: N, mods: Control|Shift, command: { program:
-  "/home/jdemployee/.config/alacritty/nwt.sh" }}
+  "/home/acardiawolfman/.config/alacritty/nwt.sh" }}
